@@ -12,7 +12,7 @@ This is a simple public API that returns:
 ### **Response Format**
 ```json
 {
-  "email": "your-email@example.com",
+  "email": "waguthijane61.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/codingbot995/api"
 }
